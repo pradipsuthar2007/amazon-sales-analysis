@@ -149,7 +149,7 @@ Amazon-Sales-Analysis/
 
 ---
 
-# 🚀 Future Improvements
+#  Future Improvements
 
 - Add advanced DAX measures.
 - Build multi-page Power BI reports.
@@ -162,7 +162,7 @@ Amazon-Sales-Analysis/
 
 ---
 
-# 👨‍💻 Author
+#  Author
 
 **Pradip Suthar**
 
