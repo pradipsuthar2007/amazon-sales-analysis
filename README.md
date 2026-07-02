@@ -30,7 +30,7 @@ The project follows a complete data analytics workflow from raw data to dashboar
 
 ---
 
-## 📂 Dataset
+##  Dataset
 
 - **Dataset:** Amazon Sale Report
 - **Source:** Kaggle
@@ -40,7 +40,7 @@ The project follows a complete data analytics workflow from raw data to dashboar
 
 ---
 
-# 🧹 Data Cleaning
+#  Data Cleaning
 
 The following preprocessing steps were performed before analysis:
 
@@ -56,7 +56,7 @@ The following preprocessing steps were performed before analysis:
 
 ---
 
-# 📈 Exploratory Data Analysis (Python)
+#  Exploratory Data Analysis (Python)
 
 The following analyses were performed using Pandas:
 
@@ -75,7 +75,7 @@ The following analyses were performed using Pandas:
 
 ---
 
-# 🗄️ SQL Business Analysis
+#  SQL Business Analysis
 
 Business questions answered using MySQL include:
 
@@ -124,7 +124,7 @@ The dashboard includes:
 
 ---
 
-# 📌 Key Business Insights
+#  Key Business Insights
 
 - The **Set** category generated the highest revenue.
 - Maharashtra contributed the highest sales revenue.
@@ -135,18 +135,16 @@ The dashboard includes:
 
 ---
 
-# 📁 Project Structure
+#  Project Structure
 
 ```
 Amazon-Sales-Analysis/
 │
 ├── Amazon_Sales_Analysis.ipynb
-├── Cleaned_Amazon_Sales.csv
 ├── SQL_Analysis.sql
 ├── Amazon_Sales_Dashboard.pbix
-├── Dashboard.png
+├── images
 ├── README.md
-└── requirements.txt
 ```
 
 ---
