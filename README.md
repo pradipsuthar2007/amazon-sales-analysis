@@ -1,4 +1,4 @@
-# 📊 Amazon Sales Analysis using Python, SQL & Power BI
+# Amazon Sales Analysis using Python, SQL & Power BI
 
 ##  Project Overview
 
@@ -75,9 +75,11 @@ The following analyses were performed using Pandas:
 
 ---
 
-#  SQL Business Analysis
+# 🗄️ SQL Business Analysis
 
-Business questions answered using MySQL include:
+SQL queries were performed on a **sample of 1,000 records** imported into MySQL. The sample was used to practice business-oriented SQL queries after completing the full data cleaning process in Python.
+
+The analysis includes:
 
 - Total Orders
 - Total Revenue
@@ -97,7 +99,7 @@ Business questions answered using MySQL include:
 
 ---
 
-# 📊 Power BI Dashboard
+# Power BI Dashboard
 
 The dashboard includes:
 
